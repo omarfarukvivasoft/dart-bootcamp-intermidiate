@@ -1,45 +1,135 @@
 # Dart Intermediate Bootcamp
 
-Welcome to the Dart Intermediate Bootcamp! This repository is designed to enhance your understanding of Dart's Object-Oriented Programming (OOP) concepts through practical examples.
+Welcome to the Dart Intermediate Bootcamp! This bootcamp is structured around real-world topics to help learners
+strengthen their understanding of Dart, especially in object-oriented and asynchronous programming, error handling,
+concurrency, and more.
 
-## 📁 Repository Structure
+Each topic is assigned to a contributor and a reviewer. **Contributors should update the README with the link to their
+topic folder and document once it's ready.** All topic materials should be placed inside a folder named exactly after
+the topic.
 
-The repository is organized as follows:
+---
 
-* **OOP/**: Contains five Dart files, each demonstrating a specific OOP concept.
+## 📚 Topics Overview
 
-## 📚 OOP Section
+### ✅ Generics
+
+**Assigned to:** Bappy  
+**Reviewer:** Saif
+
+---
+
+### ✅ Async Programming in Dart
+
+**Assigned to:** Al Amin  
+**Reviewer:** Rohan
+
+---
+
+### ✅ Error Handling
+
+**Assigned to:** Thasin  
+**Reviewer:** Rohan
+
+---
+
+### ✅ Mixin
+
+**Assigned to:** Saif  
+**Reviewer:** Thasin
+
+---
+
+### ✅ Extensions
+
+**Assigned to:** Mashrafi  
+**Reviewer:** Al Amin
+
+---
+
+### ✅ Library and Packages (Modular)
+
+**Assigned to:** Thasin  
+**Reviewer:** Omar Faruk
+
+---
+
+### ✅ Function
+
+**Assigned to:** Omar Faruk  
+**Reviewer:** Saif
+
+---
+
+### ✅ Concurrency & Parallelism
+
+**Assigned to:** Saif  
+**Reviewer:** Bappy
+
+---
+
+### ✅ Static Analysis
+
+**Assigned to:** Bappy  
+**Reviewer:** Al Amin
+
+---
+
+### ✅ JSON Serialization
+
+**Assigned to:** Mashrafi  
+**Reviewer:** Thasin
+
+---
+
+### ✅ OOP
+
+**Assigned to:** Rohan  
+**Reviewer:** Omar Faruk
 
 Explore the OOP concepts through the following files:
 
-1. [**Inheritance**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance.md): Demonstrates how classes can inherit properties and methods from other classes **with real development example**.
+1. [**Inheritance**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance.md):
+   Demonstrates how classes can inherit properties and methods from other classes **with real development example**.
 
-2. [**Polymorphism**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/polymorphism.md): Shows how methods can behave differently based on the object that is invoking them **with real development example**.
+2. [**Polymorphism**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/polymorphism.md):
+   Shows how methods can behave differently based on the object that is invoking them **with real development example**.
 
-3. [**Encapsulation**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/encapsulation.md): Illustrates how to restrict access to certain components of an object **with real development example**.
+3. [**Encapsulation**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/encapsulation.md):
+   Illustrates how to restrict access to certain components of an object **with real development example**.
 
-4. [**Abstraction**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/abstraction.md): Explains how to hide complex implementation details and show only the necessary features of an object **with real development example**.
+4. [**Abstraction**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/abstraction.md):
+   Explains how to hide complex implementation details and show only the necessary features of an object **with real
+   development example**.
 
-5. [**Composition vs Inheritance**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance_vs_composition.md): Covers when to choose composition over inheritance and vice-versa **with real development example**.
+5. [**Composition vs Inheritance
+   **](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance_vs_composition.md):
+   Covers when to choose composition over inheritance and vice-versa **with real development example**.
 
-## 🚀 Getting Started
+---
 
-To run the examples:
+### ✅ Type Systems
 
-1. Ensure you have the Dart SDK installed.
-
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ArafatRohan93/dart_intermediate_bootcamp.git
-   ```
+**Assigned to:** Al Amin  
+**Reviewer:** Rohan
 
 
-## 🤝 Contributing
+---
 
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+### ✅ Testing
 
-## 📄 License
+**Assigned to:** Al Amin  
+**Reviewer:** Bappy
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/LICENSE) file for details.
+---
 
+## 📌 Instructions for Contributors
+
+1. Create a folder named **exactly** after your assigned topic (e.g., `Generics`, `Testing`, etc.).
+2. Inside the folder, add a `README.md` file with your content.
+3. Update the relevant link above to point to your document.
+
+For example:
+
+```markdown
+- [Generic class and method writing, type constraints](./Generics/README.md)
