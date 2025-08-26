@@ -87,23 +87,22 @@ the topic.
 **Assigned to:** Rohan  
 **Reviewer:** Omar Faruk
 
-Explore the OOP concepts through the following files:
+Covered OOP concepts through the following files:
 
-1. [**Inheritance**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance.md):
+1. [**Inheritance**](./OOP/en/inheritance.md):
    Demonstrates how classes can inherit properties and methods from other classes **with real development example**.
 
-2. [**Polymorphism**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/polymorphism.md):
+2. [**Polymorphism**](./OOP/en/polymorphism.md):
    Shows how methods can behave differently based on the object that is invoking them **with real development example**.
 
-3. [**Encapsulation**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/encapsulation.md):
+3. [**Encapsulation**](./OOP/en/encapsulation.md):
    Illustrates how to restrict access to certain components of an object **with real development example**.
 
-4. [**Abstraction**](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/abstraction.md):
+4. [**Abstraction**](./OOP/en/abstraction.md):
    Explains how to hide complex implementation details and show only the necessary features of an object **with real
    development example**.
 
-5. [**Composition vs Inheritance
-   **](https://github.com/ArafatRohan93/dart_intermediate_bootcamp/blob/main/OOP/en/inheritance_vs_composition.md):
+5. [**Composition vs Inheritance**](./OOP/en/inheritance_vs_composition.md):
    Covers when to choose composition over inheritance and vice-versa **with real development example**.
 
 ---
