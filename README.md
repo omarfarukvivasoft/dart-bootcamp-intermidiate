@@ -35,6 +35,9 @@ the topic.
 **Assigned to:** Thasin  
 **Reviewer:** Rohan
 
+- [Error Handling(EN)] (./Error Handling/en/error-handling-intermediate-en.md)
+- [Error Handling(BN)] (./Error Handling/bn/error-handling-intermediate-bn.md)
+
 ---
 
 ### ✅ Mixin
