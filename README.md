@@ -54,7 +54,7 @@ the topic.
 
 ---
 
-### ✅ Function
+### ✅ Function: [English](function/en/README.md) | [Bangla](function/bn/README.md)
 
 **Assigned to:** Omar Faruk  
 **Reviewer:** Saif
