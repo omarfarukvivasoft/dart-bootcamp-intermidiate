@@ -24,6 +24,10 @@ the topic.
 **Assigned to:** Al Amin  
 **Reviewer:** Rohan
 
+
+- [Async Programming (EN)](./Async-Programming/en/async-programming-intermediate-en.md)
+- [Async Programming (BN)](./Async-Programming/bn/async-programming-intermediate-bn.md)
+
 ---
 
 ### ✅ Error Handling
