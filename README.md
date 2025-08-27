@@ -35,8 +35,8 @@ the topic.
 **Assigned to:** Thasin  
 **Reviewer:** Rohan
 
-- [Error Handling(EN)] (./Error Handling/en/error-handling-intermediate-en.md)
-- [Error Handling(BN)] (./Error Handling/bn/error-handling-intermediate-bn.md)
+- [Error Handling(EN)](./Error%20Handling/en/error-handling-intermediate-en.md)
+- [Error Handling(BN)](./Error%20Handling/bn/error-handling-intermediate-bn.md)
 
 ---
 
@@ -58,8 +58,8 @@ the topic.
 
 **Assigned to:** Thasin  
 **Reviewer:** Omar Faruk
- - [Library and Packages (Modular) (EN)] (./Library and Packages Modular/en/modular-library-and-packages-en.md)
- - [Library and Packages (Modular) (BN)] (./Library and Packages Modular/bn/modular-library-and-packages-bn.md)
+ - [Library and Packages (Modular) (EN)](./Library%20and%20Packages%20Modular/en/modular-library-and-packages-en.md)
+ - [Library and Packages (Modular) (BN)](./Library%20and%20Packages%20Modular/bn/modular-library-and-packages-bn.md)
 
 ---
 
