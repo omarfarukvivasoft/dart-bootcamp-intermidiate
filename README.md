@@ -24,12 +24,19 @@ the topic.
 **Assigned to:** Al Amin  
 **Reviewer:** Rohan
 
+
+- [Async Programming (EN)](./Async-Programming/en/async-programming-intermediate-en.md)
+- [Async Programming (BN)](./Async-Programming/bn/async-programming-intermediate-bn.md)
+
 ---
 
 ### ✅ Error Handling
 
 **Assigned to:** Thasin  
 **Reviewer:** Rohan
+
+- [Error Handling(EN)](./Error%20Handling/en/error-handling-intermediate-en.md)
+- [Error Handling(BN)](./Error%20Handling/bn/error-handling-intermediate-bn.md)
 
 ---
 
@@ -51,6 +58,8 @@ the topic.
 
 **Assigned to:** Thasin  
 **Reviewer:** Omar Faruk
+ - [Library and Packages (Modular) (EN)](./Library%20and%20Packages%20Modular/en/modular-library-and-packages-en.md)
+ - [Library and Packages (Modular) (BN)](./Library%20and%20Packages%20Modular/bn/modular-library-and-packages-bn.md)
 
 ---
 
@@ -112,6 +121,8 @@ Covered OOP concepts through the following files:
 **Assigned to:** Al Amin  
 **Reviewer:** Rohan
 
+- [Dart’s Type System](./Type-System/en/darts-type-system-en.md)
+- [ডার্টের টাইপ সিস্টেম](./Type-System/bd/darts-type-system-bd.md)
 
 ---
 
@@ -119,6 +130,9 @@ Covered OOP concepts through the following files:
 
 **Assigned to:** Al Amin  
 **Reviewer:** Bappy
+
+- [Unit Testing in Dart](./Testing/en/unit-testing-in-dart-en.md)
+- [ডার্টে ইউনিট টেস্টিং](./Testing/bn/unit-testing-in-dart-bn.md)
 
 ---
 
