@@ -118,6 +118,8 @@ Covered OOP concepts through the following files:
 **Assigned to:** Al Amin  
 **Reviewer:** Rohan
 
+- [Dart’s Type System](./Type-System/en/darts-type-system-en.md)
+- [ডার্টের টাইপ সিস্টেম](./Type-System/bd/darts-type-system-bd.md)
 
 ---
 
